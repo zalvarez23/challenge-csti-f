@@ -1,24 +1,24 @@
-# challenge-csti-f
+# Card Validation
 
-## Project setup
-```
-npm install
-```
+Prueba tecnica de validacion y generación de token card.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requisitos
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- Node.js (versión 18.X.X)
+- npm (viene con Node.js)
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologias
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Node.js versión 18
+- npm
+- Vue
+
+## Instalación
+
+1. Clona este repositorio: `git clone chalenge-csti-f`
+2. Navega a la carpeta del proyecto: `cd chalenge-csti-f`
+3. Instala las dependencias: `npm install`
+
+## Uso
+
+1. Ejecutar : `npm run serve`
